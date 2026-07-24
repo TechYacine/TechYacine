@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=220&section=header&text=Yacine&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20ML%20Engineer%20%E2%80%A2%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=220&section=header&text=HAMIHAM%20Yacine&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%E2%80%A2%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+USTHB;AI+%2F+ML+Engineer+in+the+making;Cybersecurity+%2B+Ethical+Hacking;Building+scalable+systems+with+Docker+%26+Nginx;Competitive+Programmer+on+Codeforces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Passionate+about+Software+Engineering;Always+learning+and+building;Open+Source+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
@@ -15,16 +15,9 @@
 
 ## 🧠 About Me
 
-| | |
-|---|---|
-| 🎓 **University** | USTHB |
-| 📍 **Location** | Algeria 🇩🇿 |
-| 📚 **Year** | 2nd Year Computer Science |
-| 🤖 **Focus** | AI / ML |
-| 🔐 **Interest** | Cybersecurity |
-| 🚀 **Currently Learning** | Docker, Nginx, Kubernetes |
-
-<br/>
+- 🎓 Computer Science Student @ USTHB
+- 🚀 Passionate about learning and improving myself as a CS student. 
+- 💡 Interested in building useful software and solving challenging problems
 
 ## 🛠️ Tech Arsenal
 
@@ -41,7 +34,7 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -50,7 +43,7 @@
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### AI / ML
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -85,12 +78,12 @@
 
 <br/>
 
-## 👾 Contribution Snake — Pac-Man Style
+## 👾 Contribution Snake 
 
 <div align="center">
 
-<!-- This image is generated automatically once you set up the GitHub Action below -->
-<img src="https://raw.githubusercontent.com/TechYacine/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="90%"/>
+
+<img src="https://raw.githubusercontent.com/TechYacine/TechYacine/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="90%"/>
 
 </div>
 
@@ -100,12 +93,15 @@
 
 <div align="center">
 
-![Math](https://img.shields.io/badge/♟️_Problem_Solving-Math_Puzzles-blueviolet?style=for-the-badge)
-![CS2](https://img.shields.io/badge/🎮_CS2_Esports-Team_Vitality-red?style=for-the-badge)
-![Football](https://img.shields.io/badge/⚽_Football-Fan-green?style=for-the-badge)
+![Chess](https://img.shields.io/badge/♟️_Chess-1800_Elo-7c3aed?style=for-the-badge&logo=chess.com&logoColor=white)
+&nbsp;
+![Math](https://img.shields.io/badge/🧮_Math-Problem_Solving-5e60ce?style=for-the-badge)
+&nbsp;
+![CS2](https://img.shields.io/badge/🎮_CS2-Team_Falcons-16a34a?style=for-the-badge)
+&nbsp;
+![Football](https://img.shields.io/badge/⚽_Football-Fan-2563eb?style=for-the-badge)
 
 </div>
-
 <br/>
 
 <div align="center">
