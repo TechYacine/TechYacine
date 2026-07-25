@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=220&section=header&text=HAMIHAM%20Yacine&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%E2%80%A2%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Passionate+about+Software+Engineering;Always+learning+and+building;Open+Source+Enthusiast" alt="Typing SVG" />
